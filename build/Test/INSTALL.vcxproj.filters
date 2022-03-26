@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\CollisionDetector\build\CMakeFiles\fc2fb728c163ea1648a4669e7a01c2f0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{832DC53F-A464-3BA6-891E-DEDF0B564AB3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

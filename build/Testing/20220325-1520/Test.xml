@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220325-1520-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.22022201-MSVC_2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-JO7N79J"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="19576"
+	TotalPhysicalMemory="16248"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2904"
+	>
+	<Testing>
+		<StartDateTime>Mar 25 17:59 West-Europa (standaardtijd)</StartDateTime>
+		<StartTestTime>1648227545</StartTestTime>
+		<TestList>
+			<Test>./Test/ExampleTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTests</Name>
+			<Path>./Test</Path>
+			<FullName>./Test/ExampleTests</FullName>
+			<FullCommandLine>C:\Projects\CollisionDetector\build\Test\Debug\ExampleTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0238413</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Projects\CollisionDetector\build\Test\Debug\ExampleTests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNULFOwzAQ3f0VNzZDLMqI1KFKKwZUqBKYkgiZYCIj+67YTuHzsesqIqit+qa7e8/v+a4cEBX2YITCWQYflgwUd83W0qfsvGsK0lo5RbiSPgzINj1Rr0Pj/N/S2a7pY/UanXjXsXoxooXyGHMLUeNSzvzQgBuUl5zV+YgW7jW9CZ14iXtlCY3EoJU+H3b/xBPT9Y8wOy2f44TVUL48wgHthOGbZRHYhKeHEyzMbsC47IJF9TUIKy+4JMFodNWXkxo8eaEzdt1RvBQ2f6dvnN787K3BCuTToLDEdllV61Xc8viQs1/WZKtM====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Mar 25 17:59 West-Europa (standaardtijd)</EndDateTime>
+		<EndTestTime>1648227545</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
